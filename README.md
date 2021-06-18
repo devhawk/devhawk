@@ -1,6 +1,3 @@
-### Greetings Programs!
-
-
 My real name is Harry Pierson, but I've gone by "DevHawk" online since I [started my now-neglected blog back in 2003](http://devhawk.net/blog/new-and-improved-devhawk).
 
 I am the Chief Software Architect for [NGD Enterprise](https://ngdenterprise.com/). We build [world-class developer tools](https://marketplace.visualstudio.com/items?itemName=ngd-seattle.neo-blockchain-toolkit) for the [Neo blockchain](https://neo.org/). Some of the stuff we build includes:
