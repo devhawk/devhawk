@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings Programs!
 
 
 My real name is Harry Pierson, but I've gone by "DevHawk" online since I [started my now-neglected blog back in 2003](http://devhawk.net/blog/new-and-improved-devhawk).
