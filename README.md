@@ -9,4 +9,4 @@ I am the Chief Software Architect for [NGD Enterprise](https://ngdenterprise.com
 * [Neo-Test](https://github.com/ngdenterprise/neo-test), a framework for unit testing Neo smart contracts
 * [Neo N3 Tutorials](https://ngdenterprise.com/neo-tutorials/)
 
-I always say that the only way to build great products is to talk to the people who use it. So feel free to contact me - [Discord](https://discord.com/users/514663152730898462), [Twitter](http://twitter.com/devhawk) and good old [email](mailto:devhawk@outlook.com) are usually the best ways.
+I always say that the only way to build great products is to talk to the people who use it. So feel free to contact me - [Discord](https://discord.com/users/514663152730898462), [Twitter](http://twitter.com/devhawk), <a rel="me" href="https://techhub.social/@devhawk">Mastodon</a> and good old [email](mailto:devhawk@outlook.com) are usually the best ways.
